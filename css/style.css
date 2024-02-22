@@ -1,6 +1,9 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+p {
+  text-indent: 25px;
+}
 li {
   margin: 15px 0px 15px;
 }
